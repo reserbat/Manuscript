@@ -1,0 +1,6 @@
+Fig 2. Coupling of emission to graphene membrane displacement. 
+a) Confocal reflection maps of a graphene membrane deflected electrostatically. Each map is recorded at a fixed \delta_[G-NV] given by a static backgate voltage V_g_DC. The graphene membrane acts as a mobile absorber in the standing wave formed by a single-sided cavity, absorbing a fraction n_layers*pi*alpha*I(x,y,\delta_[G-NV]) at each point on its surface. By electrostatic displacement, the membrane surface is also warped, leading to a different reflection profile and intensity for a given V_g_DC. As \delta_[G-NV] \proportional \Delta V_g_DC^2, the membrane displacement is symmetrical in \Delta V_g_DC. 
+
+b) NVC emission strength controlled by electrostatic membrane displacement. The data are fitted and show good agreement with Eq.XX. 
+c
+  

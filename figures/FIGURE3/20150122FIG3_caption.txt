@@ -1,0 +1,4 @@
+FIG3  : Readout of graphene nano-motion via NVC emission. a) Time trace of NVC emission (gray bars) modulated by a driven graphene membrane
+with mechanical resonance frequency Ω m oscillating in its near field. Distance-dependent emission quenching imprints the nano-motion of the graphene membrane onto the emission. b) Mechanical spectrum of a graphene membrane, extracted by Fourier transform of emission time traces. The amplitude of the component at the resonance frequency
+Ω m , measured independently by optical interferometry, is plotted against the drive frequency Ω drive , showing a peak at Ω m . 
+c) Differential amplitude of emission fluctuations (blue) as a function of \Delta V_g_DC^2, normalised to the oscillation amplitude \A_m of the membrane at resonance: \beta \proportional A_FFT(Omega_m/2pi)/A_m . The data show good agreement with EqXX, indicating... QQCHOSE.
